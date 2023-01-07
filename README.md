@@ -17,5 +17,5 @@ The project currently only implements the back-end console.
 
 ## Authors
 
-- <[Muhammed Abdulhakeem](https://github.com/ennas-de/)>
-- <[Toka ElWetedy](https://github.com/Toka-Elwetedy)>
+- [Muhammed Abdulhakeem](https://github.com/ennas-de/)
+- [Toka ElWetedy](https://github.com/Toka-Elwetedy)
